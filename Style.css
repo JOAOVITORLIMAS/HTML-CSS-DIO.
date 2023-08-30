@@ -1,0 +1,20 @@
+body {
+    background: grey;
+}
+
+#title, .text, .cont {
+    color: blue;    
+}
+
+.text{
+    font-size: 16pix;
+    font-style: italic;
+}
+
+.text{
+    background: white;
+    padding: 10pix;
+    border: 3pix solid black;
+    margin: 10pix;
+
+}
